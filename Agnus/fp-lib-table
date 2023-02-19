@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "A500")(type "KiCad")(uri "${KIPRJMOD}/A500.pretty")(options "")(descr ""))
+  (lib (name "svg")(type "KiCad")(uri "${KIPRJMOD}/svg")(options "")(descr "")(disabled))
+)

@@ -1,0 +1,33 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AGNUS8372
+D Address GeNerator Unit
+$ENDCMP
+#
+$CMP BUSTER5721
+D Zorro II Bus Controller
+F http://obligement.free.fr/articles/chipsetamiga.php#buster
+$ENDCMP
+#
+$CMP CIA8520
+D Complex Interface Adapter
+F https://www.amigawiki.org/doku.php?id=de:parts:cia
+$ENDCMP
+#
+$CMP DB23_Female
+D 23-pin female D-SUB connector
+K female D-SUB connector
+F  ~
+$ENDCMP
+#
+$CMP GARY5719
+D Gate Array
+$ENDCMP
+#
+$CMP PAULA
+D Ports Audio Uart and Logic
+K paula,8364,amiga
+F https://www.amigawiki.org/doku.php?id=de:parts:paula
+$ENDCMP
+#
+#End Doc Library

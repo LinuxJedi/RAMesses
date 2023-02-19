@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "amiga_customs")(type "Legacy")(uri "${KIPRJMOD}/amiga_customs.lib")(options "")(descr ""))
+)
